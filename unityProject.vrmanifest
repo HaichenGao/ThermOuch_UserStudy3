@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.thermouch_userstudy3.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\aaron\\Documents\\GitHub\\ThermOuch_UserStudy3\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "ThermOuch_UserStudy3 [Testing]"
+        }
+      }
+    }
+  ]
+}
